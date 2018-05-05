@@ -1,0 +1,13 @@
+name: NextwordPrediction
+title: NextwordPrediction
+username:
+account: aysegulzemnos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 336559
+bundleId: 1353759
+url: https://aysegulzemnos.shinyapps.io/NextwordPrediction/
+when: 1525356863.66838
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Slide Deck/Slide Deck.md|Slide Deck/Slide Deck.Rpres|Slide Deck/Slide Deck-figure/unnamed-chunk-1-1.png|Slide Deck/Slide Deck-figure/unnamed-chunk-2-1.png
